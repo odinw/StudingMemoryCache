@@ -10,6 +10,9 @@ using System.Linq;
 
 namespace StudingMemoryCache.Controllers
 {
+    // 等待研究用途
+    // CacheItemPolicy 
+
     [Route("[controller]")]
     [ApiController]
     public class CacheController : ControllerBase
